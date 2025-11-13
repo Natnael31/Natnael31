@@ -27,7 +27,7 @@ Evangadi Networks**
 
 •	Designed and completed an integrated student discussion platform that has over 1000 users 
 
-•	Created replicas of Apple.com, Netflix.com and Amazon.com for the students for teaching purposes
+•	Created replicas of [Apple.com](https://github.com/Natnael31/Apple-using-react), [Netflix.com](https://netflix-clone-7a552.web.app) and [Amazon.com](https://github.com/Natnael31/Amazon-clone) for the students for teaching purposes
 
 •	Built and deployed a Quiz application using React.js, Redux, Express and Node.js
 
