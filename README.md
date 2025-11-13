@@ -4,26 +4,40 @@ My name is Natnael Gashaw, and I am Full stack web developer. I have been devlop
 **Skills**
 
 •	Front-end development using HTML, CSS, JS, jQuery, React.js, Redux
-•	Git, GitHub 
+
+•	Git, GitHub
+
 •	Team working skills
+
 •	Back-end development using Node.js, Mongo DB, MySQL, Express
+
 •	Create well-formatted and commented code
+
 •	Fast and Adaptable Learner
+
 
 **Experience** 
 
 **Full Stack Web Developer and Instructor					Feb. 2022 – Jul. 2023
 Evangadi Networks**
+
 	Developed a website Urael Finishing for a client that increased the number of customers by 20%.  
+
 	Guided and led the development of a WordPress based E-commerce website for our client ABYSSINIACOMPUTECH, achieving 60% increase in customers. 
+
 	Designed and completed an integrated student discussion platform that has over 1000 users 
+
 	Created replicas of Apple.com, Netflix.com and Amazon.com for the students for teaching purposes
+
 	Built and deployed a Quiz application using React.js, Redux, Express and Node.js
 
 **Database Administrator							Nov. 2013 - Dec. 2016
 Kibkab Metal Market Center S/C**
+
 	Created a database using MySQL that managed the company’s inventory and increased their profit by 15% by providing fast, reliable data about the products to the company’s sales agents and management.  
+
 	Organized the company by keeping track and feeding data of all expenditures and sales records to the database
+
 	Assisted and facilitated the company’s auditing by providing reliable data for the accountants
 
 <!--
