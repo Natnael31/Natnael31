@@ -21,7 +21,7 @@ My name is Natnael Gashaw, and I am Full stack web developer. I have been devlop
 **Full Stack Web Developer and Instructor					Feb. 2022 – Jul. 2023
 Evangadi Networks**
 
-•	Developed a website Urael Finishing for a client that increased the number of customers by 20%.  
+•	Developed a website[ Urael Finishing](https://uraelmarbles.onrender.com/) for a client that increased the number of customers by 20%.  
 
 •	Guided and led the development of a WordPress based E-commerce website for our client ABYSSINIACOMPUTECH, achieving 60% increase in customers. 
 
