@@ -34,11 +34,11 @@ Evangadi Networks**
 **Database Administrator							Nov. 2013 - Dec. 2016
 Kibkab Metal Market Center S/C**
 
-	Created a database using MySQL that managed the company’s inventory and increased their profit by 15% by providing fast, reliable data about the products to the company’s sales agents and management.  
+•	Created a database using MySQL that managed the company’s inventory and increased their profit by 15% by providing fast, reliable data about the products to the company’s sales agents and management.  
 
-	Organized the company by keeping track and feeding data of all expenditures and sales records to the database
+•	Organized the company by keeping track and feeding data of all expenditures and sales records to the database
 
-	Assisted and facilitated the company’s auditing by providing reliable data for the accountants
+•	Assisted and facilitated the company’s auditing by providing reliable data for the accountants
 
 <!--
 **Natnael31/Natnael31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
