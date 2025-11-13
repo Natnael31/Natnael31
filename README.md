@@ -2,6 +2,7 @@
 My name is Natnael Gashaw, and I am Full stack web developer. I have been devloping fullstack websites for 5 years now. I have created beautiful frontend and highly functional backend websites. I have Bachelor of Science in Software Engineering from MikroLink Information Technology College and a Full stack web development certificate from Evangadi Networks.
 
 **Skills**
+
 •	Front-end development using HTML, CSS, JS, jQuery, React.js, Redux
 •	Git, GitHub 
 •	Team working skills
@@ -10,6 +11,7 @@ My name is Natnael Gashaw, and I am Full stack web developer. I have been devlop
 •	Fast and Adaptable Learner
 
 **Experience** 
+
 **Full Stack Web Developer and Instructor					Feb. 2022 – Jul. 2023
 Evangadi Networks**
 	Developed a website Urael Finishing for a client that increased the number of customers by 20%.  
